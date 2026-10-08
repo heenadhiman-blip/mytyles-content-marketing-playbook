@@ -454,4 +454,64 @@ Competitor follower counts and engagement should also be interpreted carefully, 
 
 The objective is to build a more informed and distinctive LinkedIn presence for MyTyles.
 
-## 8. What We Are Testing
+## 8. Performance Tracking & Learnings
+
+Tracking LinkedIn performance helps MyTyles understand which posts attract attention, encourage engagement, and generate interest in our content.
+
+We should review results across our three active content pillars: Educational Content, Blog Promotion, and Customer Testimonials.
+
+### 8.1 Key Metrics to Track
+
+| Metric | What It Tells Us |
+|---|---|
+| Impressions | How many times a post was displayed |
+| Reactions | How audiences responded to the post |
+| Comments | Whether the content encouraged discussion |
+| Reposts | How often people shared the post |
+| Engagement Rate | The proportion of engagement relative to impressions, using a consistent calculation |
+| Link Clicks | Whether readers clicked a tracked link, where data is available |
+| Follower Growth | How the page's follower count changes over time |
+
+These metrics should be interpreted according to each post's objective. For example, link clicks may be more relevant to blog promotions, while comments and reposts may be useful indicators for educational content.
+
+### 8.2 Performance Tracking Sheet
+
+Maintain a record of published posts with the following details:
+
+| Field | Purpose |
+|---|---|
+| Publishing Date | Identify when the post went live |
+| Post Title | Identify the content |
+| Content Pillar | Categorise the post |
+| Published URL | Link to the LinkedIn post |
+| Impressions | Record post visibility |
+| Reactions, Comments & Reposts | Record engagement |
+| Engagement Rate | Compare engagement using a consistent method |
+| Link Clicks | Record available click data |
+| Key Learning | Note what the results suggest |
+
+### 8.3 Reviewing Performance
+
+Review results monthly to identify patterns across content topics and formats.
+
+Consider:
+
+- Which topics attracted relevant engagement?
+- Which formats encouraged comments, reposts, or clicks?
+- Did blog promotions generate interest in the linked articles?
+- How did educational posts and testimonials perform against their intended objectives?
+- What could be improved in future captions or visuals?
+
+Avoid drawing conclusions from a single post. Compare results across multiple posts and consider differences in audience size, topic, and publishing period.
+
+### 8.4 Applying Our Learnings
+
+Use performance observations to improve future content planning.
+
+For example, if educational carousels consistently generate meaningful engagement, we can test additional topics in that format. If blog promotions receive limited clicks, we can review the opening copy, visual, topic selection, and CTA.
+
+Record changes and their outcomes so future decisions are based on observations rather than assumptions.
+
+### Our Guiding Principle
+
+**Track what matters, understand the results, and use those learnings to improve future content.**
