@@ -319,7 +319,80 @@ These observations can help us improve our content while maintaining the establi
 Our current priority is to strengthen Educational Content, Blog Promotion, and Customer Testimonials before gradually introducing additional content categories.
 
 
-## 6. What Success Looks Like
+## 6. Content Planning & Calendar Management
+## 6. Content Planning & Calendar Management
+
+A structured content calendar helps MyTyles plan LinkedIn posts, organise creative assets, track approvals, and maintain publishing consistency.
+
+We follow a fixed schedule of **Tuesday, Thursday, and Friday**, with three posts per week.
+
+### 6.1 Weekly Content Calendar
+
+Our LinkedIn calendar is maintained in a spreadsheet, with each week recorded separately.
+
+The tracker should include:
+
+| Field | Purpose |
+|---|---|
+| Week & Date | Identify the publishing week and scheduled date |
+| Day | Tuesday, Thursday, or Friday |
+| Content Pillar | Education, Blog Promotion, or Customer Testimonial |
+| Topic / Post Title | Record the subject of the post |
+| Content Format | Carousel, single image, video, or infographic |
+| Caption Link | Link to the working copy |
+| Creative Link | Link to the visual or video |
+| Source URL | Record the relevant blog or website page, where applicable |
+| Status | Track the post's progress |
+| Published URL | Save the live LinkedIn post link |
+| Remarks | Note changes, feedback, or follow-up actions |
+
+### 6.2 Content Development Workflow
+
+1. **Plan:** Select topics and assign them to the weekly calendar.
+2. **Research:** Check relevant product details, blog content, and supporting information.
+3. **Draft:** Prepare the caption and creative brief.
+4. **Design:** Develop the visual, carousel, or video.
+5. **Review:** Check accuracy, language, brand consistency, and links.
+6. **Approve:** Obtain the required internal approval before publishing.
+7. **Publish:** Post on the scheduled date.
+8. **Record:** Update the tracker with the published URL and final status.
+
+### 6.3 Post Status Tracking
+
+Use consistent status labels across the calendar.
+
+| Status | Meaning |
+|---|---|
+| Planned | Topic selected |
+| In Progress | Caption or creative being developed |
+| Under Review | Submitted for feedback |
+| Changes Required | Revisions requested |
+| Approved | Ready for publishing |
+| Published | Live on LinkedIn |
+
+These are recommended tracking labels and can be adjusted to match the team's existing approval process.
+
+### 6.4 Managing Content Assets
+
+LinkedIn content files follow a consistent naming format:
+
+**Date_Time_Post Title**
+
+For example: `13-10-2026_11-00-AM_Tile School Carousel`
+
+This format helps identify when a post is scheduled and what the content covers.
+
+Caption files, creatives, and final approved assets should be organised clearly to avoid confusion between working and published versions.
+
+### 6.5 Keeping the Calendar Updated
+
+The calendar should reflect the latest status of each post.
+
+Before publishing, confirm that the final caption, creative, and links have been reviewed. After publishing, add the live LinkedIn URL and update the status.
+
+If a post is delayed or replaced, record the change in the remarks column rather than leaving the original entry unclear.
+
+The calendar serves as the central reference for planned, ongoing, and published LinkedIn content.
 
 ## 7. Current Priorities
 
