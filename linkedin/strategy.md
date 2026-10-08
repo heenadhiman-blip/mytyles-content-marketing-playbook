@@ -394,6 +394,64 @@ If a post is delayed or replaced, record the change in the remarks column rather
 
 The calendar serves as the central reference for planned, ongoing, and published LinkedIn content.
 
-## 7. Current Priorities
+## 7. Competitor Benchmarking
+
+Competitor benchmarking helps MyTyles understand how other brands in the tiles, bathware, and interiors industry use LinkedIn to communicate with their audiences.
+
+The aim is to identify useful content approaches, observe industry trends, and find opportunities to improve our own LinkedIn strategy.
+
+### 7.1 Brands to Monitor
+
+We can study the LinkedIn presence of brands such as:
+
+- **Kajaria Ceramics:** Tile collections, design communication, and brand campaigns.
+- **Somany Ceramics:** Product-focused content, brand updates, and design inspiration.
+- **Orientbell Tiles:** Educational content, tile applications, and digital communication.
+- **CERA:** Product communication, campaigns, and company updates.
+- **Jaquar:** Visual storytelling, product showcases, and brand positioning.
+
+These are proposed benchmarking brands, not a fixed list. Their content should be reviewed before drawing conclusions about their current strategies.
+
+### 7.2 What We Should Analyse
+
+| Area | What to Observe |
+|---|---|
+| Content Topics | Educational, promotional, customer-focused, and company-related posts |
+| Post Formats | Carousels, images, videos, documents, and text posts |
+| Visual Presentation | Layout, readability, branding, and creative consistency |
+| Copywriting | Opening lines, caption length, tone, and CTAs |
+| Engagement | Reactions, comments, reposts, and audience discussions |
+| Posting Frequency | How regularly the brand publishes |
+| Content Opportunities | Useful topics or formats MyTyles could approach differently |
+
+### 7.3 How We Will Record Observations
+
+Maintain a competitor benchmarking sheet with the following fields:
+
+| Field | Purpose |
+|---|---|
+| Brand Name | Identify the company |
+| Review Date | Record when the observation was made |
+| Post URL | Save the original LinkedIn post |
+| Content Type | Categorise the post |
+| Format | Identify the creative format |
+| Notable Observation | Record what worked or stood out |
+| Potential Learning | Explain how the observation could inform MyTyles content |
+
+### 7.4 Turning Observations Into Action
+
+Competitor research should lead to practical learning rather than simply collecting examples.
+
+For instance, if an educational carousel receives meaningful audience questions, we can examine how the information was presented and consider whether a related topic would be useful for our own audience.
+
+We should develop original content using MyTyles' product information, brand identity, and audience needs.
+
+Competitor follower counts and engagement should also be interpreted carefully, as audience size, account maturity, and campaign activity can influence results.
+
+### Our Guiding Principle
+
+**Study competitors for insight, not imitation.**
+
+The objective is to build a more informed and distinctive LinkedIn presence for MyTyles.
 
 ## 8. What We Are Testing
