@@ -42,7 +42,6 @@ LinkedIn also gives us an opportunity to strengthen MyTyles' visibility within t
 6. **Communicate the MyTyles Brand**  
    Use LinkedIn to communicate our products, expertise, customer experiences, company developments, values, vision, and the people behind the brand.
 ## 3. Who We Want to Reach
-## 3. Who We Want to Reach
 
 MyTyles uses LinkedIn to connect with people who are interested in tiles, architecture, interior design, home improvement, and the wider building-materials industry.
 
