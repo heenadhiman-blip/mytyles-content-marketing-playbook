@@ -511,3 +511,55 @@ Record changes and their outcomes so future decisions are based on observations 
 ### Our Guiding Principle
 
 **Track what matters, understand the results, and use those learnings to improve future content.**
+
+## 9. LinkedIn Publishing Best Practices
+
+This section provides quick-reference guidance for preparing and publishing MyTyles LinkedIn posts.
+
+### 9.1 Publishing Checklist
+
+| Element | Recommended Practice |
+|---|---|
+| Posting Days | Tuesday, Thursday, and Friday |
+| Posting Time | Use the team's established time initially; test alternatives using performance data |
+| Hashtags | Use 3–5 relevant hashtags |
+| Caption Length | Keep captions concise; use additional detail only when the topic requires it |
+| Opening Line | Communicate the main idea early and give readers a reason to continue |
+| Emojis | Use sparingly when they support the tone |
+| Links | Include relevant links when the objective is website or blog traffic |
+| Mentions | Tag relevant people or organisations only when appropriate |
+| Visuals | Follow approved MyTyles dimensions, typography, and brand guidelines |
+| Engagement | Monitor comments and respond to relevant questions or feedback |
+
+### 9.2 Hashtag Selection
+
+LinkedIn's company-page guidance recommends identifying 3–5 relevant hashtags.
+
+For MyTyles, hashtags should reflect the specific topic, audience, and brand.
+
+Examples:
+
+- Educational: #TileDesign #InteriorDesign #TileTips
+- Blog Promotion: #HomeInteriors #TileIdeas #MyTyles
+- Customer Testimonials: #CustomerExperience #HomeRenovation #MyTyles
+
+These are suggested combinations, not verified high-performing hashtag sets.
+
+### 9.3 Finding the Right Posting Time
+
+There is no universally ideal publishing hour for every LinkedIn page.
+
+MyTyles should maintain its established publishing days and compare results from different posting times when practical.
+
+Record the publishing time, impressions, engagement, and link clicks where available. Review several posts before making changes.
+
+### 9.4 Final Pre-Publishing Check
+
+Before publishing, confirm:
+
+1. The caption is clear and grammatically correct.
+2. The visual follows MyTyles brand guidelines.
+3. Hashtags and mentions are relevant.
+4. Links open the intended pages.
+5. The correct approved creative is attached.
+6. The scheduled date and time are accurate.
