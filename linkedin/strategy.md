@@ -71,7 +71,6 @@ The writing style, information depth, and call to action should reflect the audi
 Follower growth matters, but relevant engagement, website interest, Experience Centre enquiries, and industry recognition are also important indicators of progress.
 
 ## 4. What We Want Our LinkedIn Page to Be Known For
-## 4. What We Want Our LinkedIn Page to Be Known For
 
 We want MyTyles' LinkedIn presence to be recognised for useful tile-related information, design inspiration, customer experiences, and meaningful updates about the company.
 
@@ -136,7 +135,6 @@ Maintain a consistent brand voice while varying hooks, storytelling approaches, 
 
 A strong LinkedIn presence is built through repeated, useful interactions rather than relying only on individual promotional posts.
 
-## 5. Our LinkedIn Content Approach
 ## 5. Our LinkedIn Content Approach
 
 MyTyles follows a consistent LinkedIn publishing schedule built around three content pillars: Educational Content, Blog Promotion, and Customer Testimonials.
@@ -318,7 +316,6 @@ These observations can help us improve our content while maintaining the establi
 Our current priority is to strengthen Educational Content, Blog Promotion, and Customer Testimonials before gradually introducing additional content categories.
 
 
-## 6. Content Planning & Calendar Management
 ## 6. Content Planning & Calendar Management
 
 A structured content calendar helps MyTyles plan LinkedIn posts, organise creative assets, track approvals, and maintain publishing consistency.
