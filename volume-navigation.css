@@ -1,0 +1,32 @@
+/* MyTyles master sidebar: derived from VOL 01 */
+:root{--playbook-navy:#0F1A2A;--playbook-orange:#F89521}
+.sidebar{background:var(--playbook-navy)!important;color:#eaf0f6!important;scrollbar-width:thin}
+.sidebar .brand{padding:6px 12px 25px!important;border-bottom:1px solid #ffffff20!important;margin:0!important}
+.sidebar .official-logo{display:block!important;width:180px!important;max-width:100%!important;height:auto!important;object-fit:contain!important;object-position:left center!important;margin:0 0 9px!important}
+.sidebar .brand-sub{font-size:11px!important;letter-spacing:2.2px!important;text-transform:uppercase!important;color:#b3c2d2!important;margin-top:5px!important;font-weight:400!important}
+.sidebar .side-label{font-size:10px!important;text-transform:uppercase!important;letter-spacing:2.1px!important;color:#8fa5ba!important;margin:27px 12px 12px!important;font-weight:700!important}
+.sidebar .library-link,.sidebar .nav-link{display:flex!important;align-items:flex-start!important;gap:12px!important;padding:11px!important;border-radius:11px!important;color:#c4d1df!important;text-decoration:none!important;font-size:12.5px!important;line-height:1.4!important;margin:2px 0!important;transition:background .2s,color .2s,box-shadow .2s!important;border:0!important}
+.sidebar .library-link:hover,.sidebar .nav-link:hover{background:#ffffff12!important;color:#fff!important}
+.sidebar .nav-link.active,.sidebar .library-link.active{background:#ffffff12!important;color:#fff!important;box-shadow:inset 3px 0 var(--playbook-orange)!important}
+.sidebar .nav-index,.sidebar .library-num{font-size:11px!important;font-weight:800!important;color:var(--playbook-orange)!important;min-width:22px!important;flex-shrink:0!important}
+.sidebar .side-bottom{border-top:1px solid #ffffff22!important;margin:28px 10px 0!important;padding:20px 0 0!important;font-size:12px!important;color:#a9b8c9!important}
+.sidebar nav a:focus-visible{outline:2px solid var(--playbook-orange);outline-offset:2px}
+@media(max-width:900px){body.playbook-shared-mobile .sidebar{position:fixed!important;left:0!important;top:0!important;width:290px!important;height:100vh!important;overflow-y:auto!important;transform:translateX(-100%)!important;transition:transform .2s!important;z-index:1002!important;display:block!important}body.playbook-shared-mobile .sidebar.open{transform:translateX(0)!important}body.playbook-shared-mobile .playbook-overlay.show{display:block!important}body.playbook-shared-mobile .playbook-menu{display:inline-flex!important}}
+.playbook-overlay{display:none;position:fixed;inset:0;background:#08121dbb;z-index:1001}
+.playbook-menu{display:none;align-items:center;gap:7px;border:1px solid #dce4eb;border-radius:10px;padding:8px 12px;background:#fff;color:#24384d;font:700 12px Outfit,Montserrat,Arial,sans-serif;cursor:pointer}
+@media print{.playbook-overlay,.playbook-menu{display:none!important}}
+
+/* FINAL SIDEBAR TYPOGRAPHY OVERRIDES: preserve VOL 01 visual hierarchy.
+   VOL 03 has a legacy .sidebar a span selector which previously coloured every title orange. */
+.sidebar nav[data-volume-toc] a.nav-link,
+.sidebar nav#toc a.nav-link{font-size:14px!important;line-height:1.5!important;color:#c4d1df!important;font-weight:500!important;align-items:flex-start!important;padding:12px 11px!important;}
+.sidebar nav[data-volume-toc] a.nav-link > span:not(.nav-index),
+.sidebar nav#toc a.nav-link > span:not(.nav-index){font-size:14px!important;line-height:1.5!important;color:inherit!important;font-weight:500!important;min-width:0!important;}
+.sidebar nav[data-volume-toc] a.nav-link > .nav-index,
+.sidebar nav#toc a.nav-link > .nav-index{font-size:13px!important;line-height:1.5!important;color:var(--playbook-orange)!important;font-weight:800!important;min-width:24px!important;}
+.sidebar nav[data-volume-toc] a.nav-link:hover,
+.sidebar nav#toc a.nav-link:hover,
+.sidebar nav[data-volume-toc] a.nav-link.active,
+.sidebar nav#toc a.nav-link.active{color:#fff!important;}
+.sidebar nav[data-volume-toc] a.nav-link.active,
+.sidebar nav#toc a.nav-link.active{background:#ffffff12!important;box-shadow:inset 3px 0 var(--playbook-orange)!important;}

@@ -1,0 +1,33 @@
+/* MyTyles Playbook master consistency layer; LinkedIn Strategy is the visual reference. */
+:root{--pb-navy:#0F1A2A;--pb-orange:#F89521;--pb-text:#c4d1df}
+body{font-family:Outfit,Montserrat,'Segoe UI',Arial,sans-serif!important}
+/* Topbar */
+.topbar.playbook-topbar{box-sizing:border-box!important;min-height:72px!important;height:auto!important;background:#fff!important;border-bottom:1px solid #e4e9ee!important;padding:14px clamp(20px,5vw,76px)!important;display:flex!important;align-items:center!important;justify-content:space-between!important;gap:16px!important;position:relative!important;z-index:5!important}
+.topbar.playbook-topbar .crumb{font-size:13px!important;letter-spacing:.15px!important;color:#64788e!important;font-weight:400!important;line-height:1.5!important;text-transform:uppercase!important}
+.topbar.playbook-topbar .crumb strong{font-size:13px!important;font-weight:800!important;color:#0F1A2A!important;text-transform:uppercase!important}
+.topbar.playbook-topbar .crumb-slash{color:#b7c2ce!important;padding:0 9px!important}
+.topbar.playbook-topbar .top-actions{display:flex!important;align-items:center!important;gap:10px!important}
+.topbar.playbook-topbar .playbook-top-btn{display:inline-flex!important;align-items:center!important;justify-content:center!important;gap:8px!important;white-space:nowrap!important;font-family:inherit!important;font-size:12px!important;line-height:1.4!important;font-weight:700!important;text-decoration:none!important;padding:11px 15px!important;border:1px solid #dce4eb!important;border-radius:12px!important;background:#fff!important;color:#14243a!important;cursor:pointer!important;box-shadow:none!important}
+.topbar.playbook-topbar .playbook-top-btn.btn-primary{background:#F89521!important;border-color:#F89521!important;color:#0F1A2A!important}
+.topbar.playbook-topbar .playbook-top-btn:hover{filter:brightness(.97)!important}
+/* Same sidebar typography on every page */
+.sidebar .side-label{font-size:11px!important;letter-spacing:2.2px!important;color:#9bb0c7!important;font-weight:800!important;text-transform:uppercase!important}
+.sidebar .playbook-toc a.nav-link,.sidebar nav[data-volume-toc] a.nav-link,.sidebar nav#toc a.nav-link{display:flex!important;align-items:flex-start!important;gap:13px!important;padding:12px 12px!important;margin:2px 0!important;border:0!important;border-radius:12px!important;box-shadow:none!important;background:transparent!important;color:#c4d1df!important;font-size:14px!important;font-weight:500!important;line-height:1.5!important;text-decoration:none!important;transition:background .2s ease,color .2s ease,box-shadow .2s ease!important}
+.sidebar .playbook-toc a.nav-link>span:not(.nav-index),.sidebar nav[data-volume-toc] a.nav-link>span:not(.nav-index){font-size:14px!important;line-height:1.5!important;color:inherit!important;font-weight:500!important}
+.sidebar .playbook-toc a.nav-link>.nav-index,.sidebar nav[data-volume-toc] a.nav-link>.nav-index{color:#F89521!important;font-size:13px!important;font-weight:800!important;min-width:24px!important;line-height:1.5!important;flex-shrink:0!important}
+.sidebar .playbook-toc a.nav-link:hover,.sidebar .playbook-toc a.nav-link.active,.sidebar nav[data-volume-toc] a.nav-link:hover,.sidebar nav[data-volume-toc] a.nav-link.active{background:#ffffff12!important;color:#fff!important}
+.sidebar .playbook-toc a.nav-link.active,.sidebar nav[data-volume-toc] a.nav-link.active{box-shadow:inset 4px 0 #F89521!important}
+.sidebar .library-link{font-size:13px!important;line-height:1.5!important}
+/* Hero: same dimensions, typography, graphics, spacing */
+.hero{background:#0F1A2A!important;border-radius:0!important;box-shadow:none!important;padding:70px clamp(24px,5vw,74px) 72px!important}
+.hero h1{font-size:clamp(39px,5vw,65px)!important;line-height:1.07!important;letter-spacing:-2.6px!important;font-weight:800!important}
+.hero .eyebrow{font-size:11px!important;letter-spacing:2.8px!important}
+.hero p{font-size:15px!important;max-width:620px!important;line-height:1.7!important}
+.hero .hero-meta{margin-top:38px!important}
+/* Restore matching page hero width even where VOL02 wraps it in .content */
+.main>.content{max-width:none!important;padding-top:0!important}
+.main>.content>.hero{margin-left:calc(-1 * min(6vw,90px))!important;margin-right:calc(-1 * min(6vw,90px))!important;width:calc(100% + 2 * min(6vw,90px))!important}
+/* Maintain mobile navigation and legibility */
+@media(max-width:900px){body.playbook-shared-mobile .sidebar{z-index:1002!important}}
+@media(max-width:700px){.topbar.playbook-topbar{padding:12px 16px!important;gap:9px!important;flex-wrap:wrap!important}.topbar.playbook-topbar .crumb,.topbar.playbook-topbar .crumb strong{font-size:11px!important}.topbar.playbook-topbar .top-actions{gap:7px!important}.topbar.playbook-topbar .playbook-top-btn{font-size:11px!important;padding:8px 10px!important}.hero{padding:52px 24px 54px!important}.hero h1{font-size:clamp(36px,8vw,46px)!important;letter-spacing:-1.6px!important}}
+@media print{.topbar.playbook-topbar,.sidebar,.playbook-overlay,.playbook-menu{display:none!important}}
